@@ -2,5 +2,7 @@
 
 <h3>Estudante web fullstack na Trybe</h3>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=victorlgarcia" alt="https://github.com/victorlgarcia/github-readme-stats" />
+<div>
+<img height="180em src="https://github-readme-stats.vercel.app/api?username=victorlgarcia" />
+<img height="180em src="https://github.com/victorlgarcia/github-readme-stats" />
+</div>
